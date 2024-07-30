@@ -1,1 +1,3 @@
 # PyQt5-LoginScreen
+
+Download the required files and run main.py to view the output...
